@@ -1,5 +1,5 @@
 {
-  "revision_id": "4e3ee9882b0d1df2819cda9e4d7a9ece67d5ed8f41bcdbf443e491d9bbe47d1b",
+  "revision_id": "27e591bd4c088466766f0b2b2ec5d41c3a3e0b9be4f4f599c7bf0edd260b37c8",
   "name": "lb_docker_host",
   "run_list": [
     "recipe[lb_docker_host::default]"
@@ -21,18 +21,18 @@
     },
     "lb_docker_host": {
       "version": "0.1.0",
-      "identifier": "e40bb1e1f3e9160da4a76117838a134b98b08015",
-      "dotted_decimal_identifier": "64189153318005014.3840213492663178.21215405178901",
+      "identifier": "41be8e85323f7d279fac485448ee1fbc5af1d783",
+      "dotted_decimal_identifier": "18505392815488893.11153086388390126.34893840111491",
       "source": ".",
       "cache_key": null,
       "scm_info": {
         "scm": "git",
         "remote": null,
-        "revision": "2bf017853dce5032d626ac3dc8b137a6aebc86ac",
+        "revision": "e5689e160e279f2b9d300c09473ab8c7c7e1a407",
         "working_tree_clean": false,
-        "published": true,
+        "published": false,
         "synchronized_remote_branches": [
-          "origin/main"
+
         ]
       },
       "source_options": {
